@@ -1,2 +1,2 @@
-# flask-api-test
-Criação de API Flask para estudo.
+# Rest API com Flask
+- Criação de API Flask Rest
